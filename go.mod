@@ -1,4 +1,4 @@
-module github.com/rancher/go-rancher-metadata
+module github.com/bigouden/go-rancher-metadata
 
 go 1.13
 
